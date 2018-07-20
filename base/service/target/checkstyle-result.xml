@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\controller\CardRestController.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\db\CardDao.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\db\CardDaoRowMapper.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\error\ServiceErrorHandler.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\Service.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\ServiceConfig.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\ServiceInitializer.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\swagger\SwaggerConfig.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\java\com\learnvest\qacodechallenge\service\swagger\SwaggerController.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\resources\application-localmysql.properties">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\main\resources\application.properties">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\service\src\test\resources\test.properties">
+</file>
+</checkstyle>

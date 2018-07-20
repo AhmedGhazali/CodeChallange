@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.learnvest.qacodechallenge.integration.requestor.CardRequestorUnitTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.55 sec - in com.learnvest.qacodechallenge.integration.requestor.CardRequestorUnitTest

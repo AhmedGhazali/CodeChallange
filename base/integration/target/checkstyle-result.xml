@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.11.2">
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\integration\src\main\java\com\learnvest\qacodechallenge\integration\requestor\BaseRequestor.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\integration\src\main\java\com\learnvest\qacodechallenge\integration\requestor\CardRequestor.java">
+</file>
+<file name="C:\Users\Walid\Desktop\coding-challenge-ahmed-al-ghazali-master\coding-challenge-ahmed-al-ghazali-master\integration\src\test\resources\test.properties">
+</file>
+</checkstyle>
